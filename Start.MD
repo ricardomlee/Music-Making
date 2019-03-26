@@ -26,6 +26,7 @@ Software: Ableton Live Lite
 [Edinburgh: Music Theory](https://www.coursera.org/learn/edinburgh-music-theory/home/welcome)
 
 bilibili 助乐堂 乐理教程
+
 EOP midi魔鬼训练营
 
 
