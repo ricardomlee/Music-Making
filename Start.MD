@@ -4,15 +4,16 @@
 
 Start with one time a week.
 
-3 hours for music theory and at least 1 hour for keys.
+1 hours for music theory and at least 2 hour for keys.
 
 
 ### Tools
 
 MIDI Keyboard: M-Audio Keystation 61 MK3
 
-Software: Ableton Live Lite
+Software: Ableton Live Lite, EOP
 
+iPad: Simply Piano, Garage Band
 
 ### Books&Websites 
 
@@ -26,8 +27,6 @@ Software: Ableton Live Lite
 [Edinburgh: Music Theory](https://www.coursera.org/learn/edinburgh-music-theory/home/welcome)
 
 bilibili 助乐堂 乐理教程
-
-EOP midi魔鬼训练营
 
 
 ## TO BE CONTINUED...
