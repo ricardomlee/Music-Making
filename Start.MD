@@ -26,7 +26,7 @@ iPad: Simply Piano, Garage Band
 
 [Edinburgh: Music Theory](https://www.coursera.org/learn/edinburgh-music-theory/home/welcome)
 
-bilibili 助乐堂 乐理教程
+bilibili
 
 
 ## TO BE CONTINUED...
